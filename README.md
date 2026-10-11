@@ -9,13 +9,13 @@ Alle bestanden zijn vrij te downloaden
 #### FMWC
 Hier heb ik voorbeeldbestanden uit de jaarlijkse Excel E-sports-wedstrijden van de Financial Modeling World Cup (FMWC) gebruikt.<br>
 Deze bestanden zijn gratis te vinden op https://fmworldcup.com/product-category/case-studies/excel-esports-cases/<br>
-  Getoonde skills: Diepe en brede kennis van Excel formules (meer dan enkel een XLOOKUP), What-if-Analysis (Data table), hyperlinks, geavanceerde search and replace obv cell format
-<br>
+>Getoonde skills: Diepe en brede kennis van Excel formules (meer dan enkel een XLOOKUP), What-if-Analysis (Data table), hyperlinks, geavanceerde search and replace obv cell format
+
 Versie voor 2025 moet nog komen<br>
 ### Power BI
 #### Analyse van mijn arbeidstijd
 Voor dit project analyseer ik mijn arbeidstijd en vertaal ik de data naar een interesaant Power BI report<br>
-  Getoonde skills:  Scrapen van holidata.net/nl-BE/BE om de wettelijke feestdagen te verzamelen vanaf 2017 in Power Query, datamodellering (Fact en DIM), DAX (measures en UDF), visuals en measures maken om specifieke info te
+>Getoonde skills:  Scrapen van holidata.net/nl-BE/BE om de wettelijke feestdagen te verzamelen vanaf 2017 in Power Query, datamodellering (Fact en DIM), DAX (measures en UDF), visuals en measures maken om specifieke info te
                     tonen in de visuals<br>
 
 Screenshots en verdere toelichting volgen<br>
