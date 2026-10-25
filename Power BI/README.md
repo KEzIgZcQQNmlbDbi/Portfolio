@@ -9,7 +9,7 @@ De data komt uit mijn eigen login- en loguitregistratie, aangevuld met mijn verl
 
 Het project laat vooral zien hoe ik van ruwe data tot een volledig datamodel kom: data ophalen en opschonen in Power Query, modelleren in een star-schema (Kimball model) en berekeningen opbouwen in DAX, inclusief DAX user-defined functions (UDF)
 
-![Titelpagina](images/01-titel.png)
+![Titelpagina](Images/01-titel.png)
 
 ---
 
@@ -18,7 +18,7 @@ Het project laat vooral zien hoe ik van ruwe data tot een volledig datamodel kom
 Het rapport bestaat uit zes pagina's. De titelpagina en inhoudstafel dienen als navigatie, de andere pagina's zijn bereikbaar via bookmark knoppen
 
 ### Algemene cijfers
-![Algemene cijfers](images/03-algemene-cijfers.png)
+![Algemene cijfers](Images/03-algemene-cijfers.png)
 
 - **Carrière in een notendop:** eerste en meest recente werkdag, de totale duur in jaren, maanden en dagen, het aantal werkdagen, halve werkdagen en ziektedagen
 - **Top 3:** kortste en langste werkdag, vroegste begin en laatste einde, telkens met de datum waarop dat gebeurde
@@ -26,17 +26,17 @@ Het rapport bestaat uit zes pagina's. De titelpagina en inhoudstafel dienen als 
 
 
 ### Uren per week (grafiek)
-![Uren per week](images/04-uren-per-week-linechart.png)
+![Uren per week](Images/04-uren-per-week-linechart.png)
 
 Twee linecharts met de gemiddelde en de totale werkuren per week (weeknr volgens ISO 8601). Hoogste waardes krijgen een label en een stippellijn toont de norm (gemidd. werkduur = 8 uur per dag, 40 uur per week)
 
 ### Uren per week (tabel)
-![Uren per week tabel](images/05-uren-per-week-tabel.png)
+![Uren per week tabel](Images/05-uren-per-week-tabel.png)
 
 Dezelfde data als uren per week, maar in tabelvorm: aantal werkdagen, totale werkuren, gemiddelde per werkdag en totale overuren. De top 3 per kolom wordt gemarkeerd met een custom medaille icoon via cond. formatting.
 
 ### Frequentie van werkbegin en -einde
-![Frequentie werkbegin en einde](images/06-frequentie-werkbegin-einde.png)
+![Frequentie werkbegin en einde](Images/06-frequentie-werkbegin-einde.png)
 
 Een histogram van hoe vaak ik in een bepaalde periode van 5 minuten start of stop. Het meest voorkomende beginmoment en eindmoment worden gemarkeerd, samen met de meest voorkomende werkduur. 
 Met knop "Elk apart" zijn login en loguit momenten elk afzonderlijk getekend
