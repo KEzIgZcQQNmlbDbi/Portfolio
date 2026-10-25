@@ -14,7 +14,7 @@ Deze bestanden zijn gratis te vinden op https://fmworldcup.com/product-category/
 Versie voor 2025 moet nog komen<br>
 ### Power BI
 #### Analyse van mijn arbeidstijd
-Voor dit project analyseer ik mijn arbeidstijd en vertaal ik de data naar een interesaant Power BI report<br>
+Voor dit project analyseer ik mijn arbeidstijd en vertaal ik de data naar een Power BI report<br>
 >Getoonde skills:  Scrapen van holidata.net/nl-BE/BE om de wettelijke feestdagen te verzamelen vanaf 2017 in Power Query, datamodellering (Fact en DIM), DAX (measures en UDF), visuals en measures maken om specifieke info te
                     tonen in de visuals<br>
 
