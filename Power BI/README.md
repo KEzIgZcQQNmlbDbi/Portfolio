@@ -31,7 +31,7 @@ Het rapport bestaat uit zes pagina's. De titelpagina en inhoudstafel dienen als 
 Twee linecharts met de gemiddelde en de totale werkuren per week (weeknr volgens ISO 8601). Hoogste waardes krijgen een label en een stippellijn toont de norm (gemidd. werkduur = 8 uur per dag, 40 uur per week)
 
 ### Uren per week (tabel)
-![Uren per week tabel](Images/05-uren-per-week-tabel.png)
+![Uren per week tabel](Images/05-uren-per-week-tabel.png) 
 
 Dezelfde data als uren per week, maar in tabelvorm: aantal werkdagen, totale werkuren, gemiddelde per werkdag en totale overuren. De top 3 per kolom wordt gemarkeerd met een custom medaille icoon via cond. formatting.
 
